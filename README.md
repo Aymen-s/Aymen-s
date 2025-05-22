@@ -1,5 +1,6 @@
-<small># 💫 About Me:
-# 👋 Hi, I'm Aymen Sileshi<br><br>I'm a passionate developer who enjoys building clean, functional, and impactful software. I focus on writing maintainable code and constantly learning new technologies to grow as a full-stack developer.<br><br>### 🚀 What I Do<br>- Build user-friendly web and mobile applications<br>- Learn and apply modern development practices<br>- Explore backend and infrastructure technologies<br>- Solve problems through code and creativity<br><br>---<br><br>> “Keep building. Keep improving.”  <br></small>
+<small>
+👋 Hi, I'm Aymen Sileshi<br><br>I'm a passionate developer who enjoys building clean, functional, and impactful software. I focus on writing maintainable code and constantly learning new technologies to grow as a full-stack developer.<br><br>### 🚀 What I Do<br>- Build user-friendly web and mobile applications<br>- Learn and apply modern development practices<br>- Explore backend and infrastructure technologies<br>- Solve problems through code and creativity<br><br>---<br><br>> “Keep building. Keep improving.”<br>
+</small>
 
 
 # 💻 Tech Stack:
